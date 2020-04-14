@@ -4,12 +4,12 @@
  SparkFun Electronics
  Date: October 2nd, 2016
  
- Given a series of IR samples from the MAX30105 we discern when a heart beat is occurring
+ Given a series of IR samples from the MAX30102 we discern when a heart beat is occurring
 
  Let's have a brief chat about what this code does. We're going to try to detect
  heart-rate optically. This is tricky and prone to give false readings. We really don't
  want to get anyone hurt so use this code only as an example of how to process optical
- data. Build fun stuff with our MAX30105 breakout board but don't use it for actual
+ data. Build fun stuff with our MAX30102 breakout board but don't use it for actual
  medical diagnosis.
 
  Excellent background on optical heart rate detection:
